@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 <!--
 **imsuck/imsuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://user-images.githubusercontent.com/49095435/141875087-c774a93c-1131-4d3d-9dc2-8758bd05c3e7.png)
