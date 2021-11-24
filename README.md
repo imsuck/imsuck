@@ -1,4 +1,4 @@
-# Hi there
+### Hi there
 I don't actually know what to do.
 <!--
 **imsuck/imsuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <details><summary>Github Stats</summary>
-  <a href="https://github.com/imsuck"><img src="https://github-readme-stats.vercel.app/api?username=imsuck&title_color=ffb7c5&text_color=87CEEB&icon_color=87CEEB&bg_color=50,0d1216,0a0d10&hide_border=true&show_icons=true&include_all_commits=true"></a>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=imsuck&title_color=ffb7c5&text_color=87CEEB&icon_color=87CEEB&bg_color=50,0d1216,0a0d10&hide_border=true&show_icons=true&include_all_commits=true">
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsuck&layout=compact&title_color=ffb7c5&text_color=87CEEB&icon_color=87CEEB&bg_color=50,0d1216,0a0d10&hide_border=true&count_private=true"
+  </p>
 </details>
