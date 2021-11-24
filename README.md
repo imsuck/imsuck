@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <details><summary>Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=imsuck&title_color=ffb7c5&text_color=87CEEB&icon_color=ffb7c5&bg_color=50,0d1216,0a0d10&show_icons=true&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=imsuck&title_color=ffb7c5&text_color=87CEEB&icon_color=ffb7c5&bg_color=50,0d1216,0a0d10&hide_border=true&show_icons=true&include_all_commits=true">
 </details>
