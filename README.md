@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imsuck&hide=contribs,prs)
+<details><summary>Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=imsuck&hide=contribs,prs&theme=github_dark&hide_border=true&title_color=#00ffff&icon_color=#00ffff&show_icons=true" alt="imsuck's Github Stats">
+</details>
